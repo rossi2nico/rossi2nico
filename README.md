@@ -1,3 +1,3 @@
-## Hi there 👋
-
-My name is Nico, I am a highly competitive and curious person who loves to learn and solve problems. I’m a former professional Dota 2 player, now focused on solving real-world challenges through building software!
+## Hi there, I'm Nico 👋 
+  📌 I am currently working on HabitLink, a community based habit tracker aiming to provide accountability between friends.
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
