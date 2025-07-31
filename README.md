@@ -1,7 +1,7 @@
 ## Hi there👋
 
 
-My name is Nico, I'm a CS student at George Mason University passionate about leveraging software to solve real-world problems.  
+#### My name is Nico, I'm a CS student at George Mason University passionate about leveraging software to solve real-world problems.  
 
 - 🚀 Over the summer I helped local businesses by developing custom software and migrating systems to modern platforms.
 - 📌 One project I am currently working on is [HabitLink](https://github.com/rossi2nico/HabitLink) — a community based habit tracker aiming to provide accountability between friends.
@@ -10,8 +10,9 @@ My name is Nico, I'm a CS student at George Mason University passionate about le
 
 <img align = "right" width="362" height="300" alt="Screenshot 2025-07-31 123744" src="https://github.com/user-attachments/assets/c67572f8-7ae9-4f6c-a1d1-a9523d5a0afa" />
 
-I’m extremely competitive and love playing soccer and ultimate frisbee.  
-I also competed professionally as a Dota 2 player for five years.  
+I grew up in a highly competitive environment, with a strong background in sports and five years as a professional Dota 2 player.  
+<br/>
+Now, I’m channeling that dedication and curiosity into crafting elegant, high-performance code to solve complex problems.  
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -30,9 +31,6 @@ I also competed professionally as a Dota 2 player for five years.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
