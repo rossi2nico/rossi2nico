@@ -10,7 +10,7 @@ My name is Nico, I'm a CS student at George Mason University passionate about le
 
 <img align = "right" width="362" height="300" alt="Screenshot 2025-07-31 123744" src="https://github.com/user-attachments/assets/c67572f8-7ae9-4f6c-a1d1-a9523d5a0afa" />
 
-I’m extremely competitive and love playing sports such as soccer and ultimate frisbee.  
+I’m extremely competitive and love playing soccer and ultimate frisbee.  
 I also competed professionally as a Dota 2 player for five years.  
 <br/>
 <p align="left">
