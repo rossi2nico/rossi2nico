@@ -6,7 +6,7 @@
 - 🚀 Over the summer I helped local businesses by developing custom software and migrating systems to modern platforms.
 - 📌 One project I am currently working on is [HabitLink](https://github.com/rossi2nico/HabitLink) — a community based habit tracker aiming to provide accountability between friends.
 
-<a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2">
+<a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2" target="_blank">
   <img align = "right" width="362" height="300" alt="Screenshot" src="https://github.com/user-attachments/assets/c67572f8-7ae9-4f6c-a1d1-a9523d5a0afa" />
 </a>
 
