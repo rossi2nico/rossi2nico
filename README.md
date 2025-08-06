@@ -9,9 +9,9 @@
 
 ### What I’m Working On
 
-- 🤝 **[HabitLink](https://github.com/rossi2nico/HabitLink)** — A community based habit tracker focused on providing accountability between friends.
-- 🧠 **Dota 2 Match Predictor** — Neural network trained to predict Dota 2 match win probabilities from hero team compositions.
-- 🚀 Helping local businesses by migrating systems to modern platforms and developing custom software addressing key pain points
+- **[HabitLink](https://github.com/rossi2nico/HabitLink)** — A community based habit tracker focused on providing accountability between friends.
+- **Dota 2 Match Predictor** — Neural network trained to predict Dota 2 match win probabilities from hero team compositions.
+- Helping local businesses by migrating systems to modern platforms and developing custom software addressing key pain points
 
 ---
 
