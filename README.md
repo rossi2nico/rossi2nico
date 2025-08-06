@@ -16,7 +16,7 @@
 ---
 
 <a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2" target="_blank">
-  <img align = "right" width="320" height="260" alt="Screenshot" src="https://github.com/user-attachments/assets/c67572f8-7ae9-4f6c-a1d1-a9523d5a0afa" />
+<img align = "right" width="305" height="235" alt="image" src="https://github.com/user-attachments/assets/25e31efd-c924-4fd8-ba78-417e8e65b341" />
 </a>
 
 ### My Motivation
