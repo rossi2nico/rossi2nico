@@ -21,15 +21,18 @@
 
 ### My Motivation
 
-I grew up in a highly competitive environment, with a strong background in sports and professional Esports. These experiences highlight the dedication, sacrifice, and relentless pursuit of excellence that define my approach to every challenge.  
+I grew up in a highly competitive environment, with a strong background in high level sports and professional Esports. These experiences highlight the dedication, sacrifice, and relentless pursuit of excellence that define my approach to every challenge.  
 <br/>
 Now, I’m channeling that same drive and discipline into my journey as a software engineer, passionate about leveraging software to solve real-world problems.  
 
 ---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,py,c,ts,react,lua" />
+### Tech Stack
+
+  <img src="https://skillicons.dev/icons?i=java,py,c,ts,js,mysql,react,nextjs,vercel,express,nodejs,fastapi,spring,supabase,mongodb,postman,git,github,pytorch,tensorflow,scikitlearn" />
 </p>
+
+
 
 
 
