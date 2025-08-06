@@ -2,7 +2,7 @@
 
 <p align = "center"> 
   Software Engineer & Ex-Professional Dota 2 Player <br/>
-  🎓 CS at GMU
+   Prev @ Unstuck Labs • 🎓 CS at GMU 
 </p>
 
 --- 
@@ -16,18 +16,19 @@
 ---
 
 <a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2" target="_blank">
-  <img align = "right" width="350" height="280" alt="Screenshot" src="https://github.com/user-attachments/assets/c67572f8-7ae9-4f6c-a1d1-a9523d5a0afa" />
+  <img align = "right" width="320" height="260" alt="Screenshot" src="https://github.com/user-attachments/assets/c67572f8-7ae9-4f6c-a1d1-a9523d5a0afa" />
 </a>
 
-I grew up in a highly competitive environment, with a strong background in sports and five years as a professional Dota 2 player.  
+### My Motivation
+
+I grew up in a highly competitive environment, with a strong background in sports and professional Esports. These experiences highlight the dedication, sacrifice, and relentless pursuit of excellence that define my approach to every challenge.  
 <br/>
-Now, I’m channeling that dedication and drive into crafting elegant, high-performance code to solve complex problems.  
+Now, I’m channeling that same drive and discipline into my journey as a software engineer, passionate about leveraging software to solve real-world problems.  
 
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,py,c,ts,react" />
-  <img src="https://skillicons.dev/icons?i=postman,mongodb,supabase,postgres"/>
+  <img src="https://skillicons.dev/icons?i=java,js,py,c,ts,react,lua" />
 </p>
 
 
