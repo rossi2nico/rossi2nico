@@ -26,7 +26,8 @@ Now, I’m channeling that dedication and drive into crafting elegant, high-perf
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,py,c,ts,react,postman,mongodb,supabase,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,c,ts,react" />
+  <img src="https://skillicons.dev/icons?i=postman,mongodb,supabase,postgres"/>
 </p>
 
 
