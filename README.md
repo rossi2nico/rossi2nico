@@ -1,7 +1,7 @@
 <h1 align = "center"> Hey, I'm Nico 👋</h1>
 
 <p align = "center"> 
-  Software Engineer & Ex-Professional Dota 2 Player <br/>
+  Software Engineer <br/>
    Prev @ Unstuck Labs • 🎓 CS at GMU 
 </p>
 
@@ -15,13 +15,9 @@
 
 ---
 
-<a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2" target="_blank">
-<img align = "right" width="305" height="235" alt="image" src="https://github.com/user-attachments/assets/25e31efd-c924-4fd8-ba78-417e8e65b341" />
-</a>
-
 ### My Motivation
 
-I grew up in a highly competitive environment, with a strong background in high level sports and professional Esports. These experiences highlight the dedication, sacrifice, and relentless pursuit of excellence that define my approach to every challenge.  
+I grew up in a highly competitive environment, with a strong background in high level sports and professional E-sports. These experiences highlight the dedication, sacrifice, and relentless pursuit of excellence that define my approach to every challenge.  
 <br/>
 Now, I’m channeling that same drive and discipline into my journey as a software engineer, passionate about leveraging software to solve real-world problems.  
 
