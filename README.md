@@ -11,8 +11,10 @@
 
 - **[HabitLink](https://github.com/rossi2nico/HabitLink)** — A community based habit tracker focused on providing accountability between users.
 - **Dota 2 Match Predictor** — Neural network trained to predict Dota 2 match win probabilities from hero team compositions.
+- **[Dota Autoexec Generator](https://github.com/rossi2nico/dota2-autoexec-generator)** — CLI tool that generate customized autoexec.cfg files for Dota 2, defaulting to
+settings used by professional players.
 - Developing custom software solutions to address critical operational challenges in local businesses.
-
+  
 ---
 
 <a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2" target="_blank">
