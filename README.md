@@ -18,7 +18,7 @@ settings used by professional players.
 ---
 
 <a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2" target="_blank">
-<img align = "right" width="377" height="301" alt="image" src="https://github.com/user-attachments/assets/1a53af12-7b81-4d9a-a18d-25a84a95d3e2" />
+<img align = "right" width="339" height="271" alt="image" src="https://github.com/user-attachments/assets/1a53af12-7b81-4d9a-a18d-25a84a95d3e2" />
 </a>
 
 ### My Motivation
