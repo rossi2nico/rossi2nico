@@ -14,22 +14,6 @@
 - **[Dota Autoexec Generator](https://github.com/rossi2nico/dota2-autoexec-generator)** — CLI tool that generate customized autoexec.cfg files for Dota 2, defaulting to
 settings used by professional players.
 - Developing custom software solutions to address critical operational challenges in local businesses.
-  
----
-
-<a title="Rank 1 in Dota" style="cursor: pointer; float: right;" href="https://liquipedia.net/dota2/Red2" target="_blank">
-<img align = "right" width="339" height="271" alt="image" src="https://github.com/user-attachments/assets/1a53af12-7b81-4d9a-a18d-25a84a95d3e2" />
-</a>
-
-### My Motivation
-
-I grew up in a highly competitive environment, with a strong background in high level sports and five years as a professional Dota 2 player.
-
-These experiences highlight the dedication, sacrifice, and relentless pursuit of excellence that define my approach to every challenge.  
-<br/>
-Now, I’m channeling that same drive and discipline into my journey as a software engineer, passionate about leveraging software to solve real-world problems.  
-
----
 
 ### Tech Stack
 
