@@ -5,6 +5,7 @@
    Prev @ Unstuck Labs • 🎓 CS at GMU 
 </p>
 
+---  
 ### What I’m Working On
 
 - **[HabitLink](https://github.com/rossi2nico/HabitLink)** — A community based habit tracker focused on providing accountability between users.
